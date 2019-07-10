@@ -1,7 +1,7 @@
 # clustering-hw
 
 ### Original objective
-To complete incompleted data based on "distance" and visualize clusters of related data.
+To analyse incompleted data based on "distance" and visualize clusters of related data.
 
 ### What i managed to do
 1. Generate random incomplete data.
